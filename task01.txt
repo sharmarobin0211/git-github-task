@@ -1,0 +1,10 @@
+working with pull and push request in local and in git -hub
+
+Scenario - working in new feature and that pash to added in repo called as git-and github-task
+
+1.fork
+2. creating another branch for dev process
+3. pushthe chages
+4.pull request in git hub 
+( merging the branhes and adding changes)
+  named as solution.md
