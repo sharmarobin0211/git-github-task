@@ -1,6 +1,4 @@
  Undoing Changes -revert and reset
 
 
- this is correct line
-
-this line is wrongly writen wich has to revert back/rool back/undo 
+ this is correct line 
